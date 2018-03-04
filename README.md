@@ -10,4 +10,4 @@ small p- zoom in
 capital P- zoom out
 small i-panning left
 capital I-panning right
-small k- rotate about an arbitrary line
+small k- rotate about an arbitrary line.
